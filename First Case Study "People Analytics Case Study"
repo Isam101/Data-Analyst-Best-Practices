@@ -1,0 +1,92 @@
+📊 People Analytics Case Study — Improving Employee Retention
+
+A practical example of applying the 6-step data analysis process to a real business problem.
+
+🔍 Business Problem (Finding the problem we are trying to fix)
+A company was facing a high turnover rate among new hires, with many employees leaving within their first year.
+The data team was tasked with answering:
+
+“How can we improve the retention rate for new employees?”
+
+They applied the six-step data analysis process: Ask → Prepare → Process → Analyze → Share → Act.
+
+1️⃣ ASK — Define the Problem & Questions
+
+The analysts clarified the goals and gathered context by asking leaders:
+What do new employees need to succeed in year one?
+Do you have historical data we can review?
+Why do you think some teams retain better than others?
+What causes dissatisfaction for new employees?
+What retention improvement percentage is expected?
+
+🔑 Outcome: A clear project scope + a measurable success target.
+
+2️⃣ PREPARE — Plan the Data Collection
+
+The team built a 3-month timeline and designed an online survey for new employees.
+(Method) 
+They planned:
+Survey questions on satisfaction, onboarding, hiring, compensation
+Data access rules (only aggregated data visible outside the team)
+How results should be visualized
+
+Potential risks + how to avoid them
+
+🔑 Outcome: A structured plan for ethical and effective data collection.
+
+3️⃣ PROCESS — Clean, Protect & Store the Data
+
+To maintain confidentiality and trust, analysts:
+Restricted raw data access to a small group
+Cleaned and validated responses
+Aggregated sensitive fields (e.g., compensation ranges)
+Uploaded raw data to a secure internal warehouse
+
+🔑 Outcome: Clean, secure, and usable survey data.
+
+4️⃣ ANALYZE — Identify Key Insights
+
+The analysis uncovered two major findings:
+🚩 Negative Predictor:
+Employees who experienced a long, complicated hiring process were more likely to leave early.
+
+⭐ Positive Predictor:
+Employees with a transparent and efficient evaluation + feedback process were more likely to stay long-term.
+
+🔑 Outcome: Concrete factors linked to satisfaction and retention.
+
+5️⃣ SHARE — Communicate Results Effectively
+To ensure proper context and trust:
+Results were shared only with managers who met response minimums
+Analysts presented findings directly to managers
+Managers delivered results to their teams to spark conversations
+
+🔑 Outcome: Managers understood the findings and could discuss them meaningfully with employees.
+
+6️⃣ ACT — Implement Solutions
+Based on insights, the team recommended:
+Standardizing the hiring process
+Standardizing evaluation/feedback procedures
+Running the same survey annually for comparison
+One year later, survey results confirmed retention significantly improved.
+
+🔑 Outcome: Data-driven actions produced measurable business impact.
+
+📘 Key Takeaways
+
+People analytics uses data to improve workplace culture and employee experience.
+The 6-step analysis process works for ANY business problem.
+Ethical data practices build trust and enable honest responses.
+Real impact comes from actionable insights + good communication.
+Even simple surveys can reveal patterns that save companies money and reduce turnover.
+
+💡 Why This Matters (My Reflection)
+
+This case study shows how data analytics isn’t just about numbers it’s about:
+1) understanding people
+2) solving real business problems
+3) improving processes
+4) creating better workplaces
+5) influencing leadership decisions
+
+It demonstrates exactly how the skills I am learning in the Google Data Analytics Certificate translate into real organizational impact.
