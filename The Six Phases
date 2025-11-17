@@ -1,0 +1,14 @@
+In this note I summarize how data analysts use the six phases of the data analysis process 
+— Ask, Prepare, Process, Analyze, Share, and Act 
+— to answer business questions.
+
+* Using a fictional case at Geo-Flow Inc., analysts investigate why employee participation in a retirement contribution program is lower than expected and whether the company should invest in training:
+
+1) Ask: Define the problem and key questions (Are employees investing? Should we build training?).
+2) Prepare: Gather relevant data from HR, including demographics, salary, and contribution behavior.
+3) Process: Clean and organize the data (remove duplicates, filter ex-employees, group by age, department, tenure).
+4) Analyze: Explore trends and patterns to find which groups are under-participating and why (e.g., lack of awareness of the matching benefit).
+5) Share: Present insights with clear visualizations (bar/pie charts) so managers can easily interpret the results.
+6) Act: Recommend and implement a targeted education program, then measure the impact (participation increases in the low-contribution groups).
+
+Key takeaway: the 6-step process is iterative, not strictly linear—you sometimes need to go back and refine questions or data. Skipping steps or rushing to “quick answers” can break the analysis, while careful iteration leads to higher-quality, ethical, and more impactful decisions.
