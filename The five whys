@@ -1,0 +1,13 @@
+✅ Summary of the Five Whys Technique
+
+The Five Whys is a simple but powerful root cause analysis method used by data analysts to uncover the underlying reason a problem occurs.
+It works by repeatedly asking “Why?” until the true cause emerges—typically by the fifth question, though sometimes more or fewer are needed. 
+This technique helps analysts move past surface-level symptoms and identify the real issue that needs to be fixed.
+1) In the first business example, an online grocery company received many complaints about damaged deliveries. 
+By applying the Five Whys, the analyst discovered that the root cause was incomplete training for new grocery packers because the HR department had paused full training while redesigning the program. 
+Once this issue was identified, leadership supported HR in completing training updates and retraining staff, which resolved the delivery problems.
+2) In the second example, an irrigation company had rising defects in their water pumps. Using the Five Whys, the data team traced the issue back to engineers not being informed about how to calibrate machines after a software upgrade. 
+The installation team had not provided the updated calibration procedures. After sharing the missing information, engineers were able to calibrate machines correctly and pump defects were eliminated.
+
+Key takeaway:
+The Five Whys is a valuable tool for data professionals because it encourages deeper thinking, collaboration, and systematic problem-solving. It can be applied in any industry to uncover root causes and create effective, long-term solutions.
