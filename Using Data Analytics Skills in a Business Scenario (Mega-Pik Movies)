@@ -1,0 +1,56 @@
+Mega-Pik International is struggling: five of their last six movies barely broke even, and one lost money.
+They noticed competitors recovered by creating remakes, so they want to use *exploratory data analysis (EDA)*  to understand what audiences like and what makes a movie successful.
+
+Your team identifies three main EDA goals:
+1) Find key factors that drive opening-weekend success
+2) Understand the relationship between budget and revenue
+3) Identify which genres perform best
+
+A dataset is prepared with details like revenue, rating, genre, release date, budget, and marketing cost.
+
+🔎 How the Five Data Analyst Skills Apply
+1. Curiosity
+Data analysts ask questions that lead to insights.
+Examples:
+Does a higher budget lead to higher revenue?
+Which genres perform best in each season?
+Should we include more data like demographic info?
+Curiosity helps analysts uncover patterns and opportunities.
+
+2. Understanding Context
+
+Context explains why the data behaves the way it does.
+Examples:
+Family movies earn more when kids are on school break.
+Holidays, competition, and global release timing affect performance.
+Revenue must be analyzed across multiple years to avoid seasonal bias.
+Context makes analysis meaningful and prevents false conclusions.
+
+3. Technical Mindset
+
+A technical mindset means breaking problems into logical parts:
+Cleaning and preparing the dataset
+Choosing appropriate tools
+Finding and correcting inaccurate or missing data
+This mindset helps analysts systematically work through complex problems.
+
+4. Data Design
+
+Data design is how you structure and organize information.
+Example:
+Sorting by revenue then genre might reveal comedy performs better than drama.
+Good data design makes analysis easier and far more insightful.
+
+5. Data Strategy
+
+Data strategy is how you manage the people, processes, and tools in analysis:
+Choosing Excel/Sheets for simple dashboards
+Using Tableau if data updates automatically
+Prioritizing analyses that impact next quarter’s revenue first
+Good strategy allocates resources effectively and leads to actionable results.
+
+⭐ Key Takeaways
+
+Analysts naturally use curiosity, context, technical thinking, data design, and data strategy to solve business problems.
+These skills become powerful when paired with proper tools, processes, and structured analysis.
+Understanding how to apply these skills in real business scenarios—like helping Mega-Pik make better movie decisions—is essential for becoming a strong data analyst.
