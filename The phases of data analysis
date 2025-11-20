@@ -1,0 +1,71 @@
+📘 Summary: The Phases of the Data Analysis Process
+
+The data analysis process has six phases:
+Ask → Prepare → Process → Analyze → Share → Act
+Each step builds on the last to turn raw data into meaningful decisions.
+
+1️⃣ Ask Phase
+
+The foundation of the entire analysis.
+Analysts must:
+Understand stakeholder expectations
+Define the problem
+Create clear, focused questions
+
+This phase ensures the analyst knows what is needed, why, and how the results will be used.
+
+2️⃣ Prepare Phase
+
+The goal is to find the right data. Analysts:
+Identify sources
+Decide what data is useful
+Ensure data is unbiased and objective
+Good analysis starts with the right data, not just any data.
+
+3️⃣ Process Phase
+
+This phase cleans and improves the data so it’s ready to analyze. Analysts:
+Clean errors
+Reformat or transform data
+Combine datasets
+Remove outliers
+They also verify that cleaned data is correct, complete, and trustworthy.
+
+4️⃣ Analyze Phase
+
+Now the cleaned data becomes insightful information. Analysts:
+Look for trends, relationships, and patterns
+Use tools like spreadsheets, SQL, and R
+Answer the questions defined in the Ask phase
+This is where the real decision-making value begins.
+
+5️⃣ Share Phase
+
+Analysts communicate insights to stakeholders using:
+Data stories
+Visualizations
+Dashboards
+Reports
+Clear communication helps stakeholders understand the results and make data-driven decisions.
+
+6️⃣ Act Phase
+
+The final step: put insights into action.
+In this program, the "act" phase is:
+Completing a case study
+Adding it to your portfolio
+Preparing for the job search
+This is where everything you learn becomes practical and valuable.
+
+🎓 How Each Course in the Program Fits Into the Process
+Phase	Course
+Ask	Ask Questions to Make Data-Driven Decisions
+Prepare	Prepare Data for Exploration
+Process	Process Data from Dirty to Clean
+Analyze	Analyze Data to Answer Questions / R Programming
+Share	Share Data Through Visualization / R Programming
+Act	Capstone Case Study
+⭐ Key Takeaway
+
+The six-phase data analysis process gives you a roadmap for turning raw data into insights that drive decisions.
+Each phase is essential, and the Google Data Analytics program is designed to teach you each part step by step.
