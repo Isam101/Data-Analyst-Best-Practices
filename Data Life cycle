@@ -1,0 +1,36 @@
+*Standard Data Life Cycle* 
+Plan → Capture → Manage → Analyze → Archive → Destroy
+
+Variations by Organization
+🦅 U.S. Fish & Wildlife
+
+Plan, Acquire, Maintain, Access, Evaluate, Archive
+
+Unique: Adds Evaluate (check accuracy & usefulness)
+
+🌎 USGS
+
+Plan, Acquire, Process, Analyze, Preserve, Publish/Share
+
+Unique: Adds Preserve, Publish, plus continuous metadata, quality, backup
+
+💵 Financial Institutions
+
+Capture, Qualify, Transform, Utilize, Report, Archive, Purge
+
+Unique: Qualify, Report, Purge (strict deletion rules)
+
+🎓 Harvard Business School
+
+Generation, Collection, Processing, Storage, Management, Analysis, Visualization, Interpretation
+
+Unique: Adds Visualization + Interpretation, no destruction stage
+
+
+*Key Takeaways
+Different industries adapt the data life cycle to their needs.
+1) Government/science → archive, document, backup.
+2) Finance → validation, reporting, strict purging.
+3) Education/research → visualization, interpretation.
+
+* All agree: Data must be accurate, secure, and available.
