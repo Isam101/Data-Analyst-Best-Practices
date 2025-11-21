@@ -1,0 +1,16 @@
+Key Data Analyst Tools
+Data analysts use several essential tools to collect, organize, analyze, and communicate data.
+Three core categories include:
+
+1. Spreadsheets (Excel, Google Sheets)
+Used to store, sort, organize, and visualize data. They help identify patterns, manage datasets, and create charts and graphs.
+
+2. Databases & Query Languages (SQL: MySQL, SQL Server, BigQuery)
+Databases store structured data, and SQL lets analysts select, filter, combine, add, and download specific information needed for analysis.
+
+3. Visualization Tools (Tableau, Looker)
+These transform complex data into visual stories—graphs, dashboards, maps—making insights easy for stakeholders to understand and use for decisions.
+Analysts also commonly use R and Python for statistical analysis, automation, and advanced visualization.
+
+Key takeaway:
+Data analysts use a wide range of tools—from spreadsheets to SQL to visualization software—to turn raw data into meaningful insights that support smart decision-making.
