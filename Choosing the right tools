@@ -1,0 +1,9 @@
+Different stages of the data analysis process require different tools.
+Spreadsheets (Excel, Google Sheets) are great for organizing, cleaning, and analyzing small or medium datasets.
+Databases + SQL are better for large, complex datasets because they store data efficiently, enforce strict structure, allow multiple users, and retrieve information quickly.
+
+Data analysts often use both together—for example, pulling data from a database into a spreadsheet for analysis, or moving spreadsheet data into a database when it grows too large.
+Programming languages like R and Python offer even more control for analysis and visualization.
+
+Key takeaway:
+Use spreadsheets for lighter, hands-on analysis; use databases for large, structured, multi-user data; and combine tools when necessary to get the best results.
