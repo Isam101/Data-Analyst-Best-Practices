@@ -1,0 +1,14 @@
+Data visualization is the process of turning data into charts, graphs, and visuals that make information easier to understand. To create a good visualization, analysts follow three steps:
+
+Explore the data – Look for patterns, trends, and relationships.
+Plan the visuals – Decide what the audience needs to see (e.g., sales over time, location patterns, customer behavior).
+Create the visuals – Use the right chart types (line charts, maps, donut charts, bar charts) and adjust them until the story is clear.
+
+Analysts use multiple tools for visualization:
+
+1) Spreadsheets (Excel/Sheets) for simple charts
+2) Tableau for interactive dashboards
+3) R/RStudio for advanced visualizations and programming
+
+Key takeaway:
+Great data visualization requires choosing the right charts and tools to clearly communicate insights and help stakeholders make better decisions.
