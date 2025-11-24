@@ -1,0 +1,10 @@
+This section introduces SQL and how it’s used to communicate with databases. A query is simply a request for data, written using SQL syntax. Every SQL query is built using three core clauses:
+
+SELECT – choose the columns
+
+FROM – choose the table
+
+WHERE – filter the results
+
+The guide explains how to write simple queries, select multiple columns, and combine multiple conditions using operators like AND, OR, and NOT. 
+Examples show how SQL retrieves specific data (e.g., customers named Tony) and how adding conditions refines results. These fundamentals form the foundation for writing more advanced SQL queries later.
